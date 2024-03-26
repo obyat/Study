@@ -1,0 +1,9 @@
+<conso:ConsolidationConfigList version="1627461409639" xmlns:bee="test.bee" xmlns:conso="test.consolidation.v10">
+    <conso:ConsolidationConfig>
+        <conso:config>
+            <bee:KeyValue key="DataModel">1</bee:KeyValue>
+            <bee:KeyValue key="DocType"/>
+            <bee:KeyValue key="TyupeHierarchyMetaName" value="hierarchical_types" type="hidden"/>
+        </conso:config>
+    </conso:ConsolidationConfig>
+</conso:ConsolidationConfigList>

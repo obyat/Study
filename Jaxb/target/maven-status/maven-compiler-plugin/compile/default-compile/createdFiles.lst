@@ -1,0 +1,6 @@
+demo\schema\KeyValue.class
+demo\schema\Config.class
+demo\schema\NAMESPACES.class
+demo\schema\ConsolidationConfigList.class
+com\example\jaxb\JaxbDemoSchemaApplication.class
+demo\schema\ConsolidationConfig.class
