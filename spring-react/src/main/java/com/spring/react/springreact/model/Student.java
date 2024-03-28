@@ -7,9 +7,11 @@ import jakarta.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
+//@Data
+//@AllArgsConstructor
+@Entity
 @Data
 @AllArgsConstructor
-@Entity
 public class Student {
 
     @Id
@@ -18,4 +20,6 @@ public class Student {
     private String name;
     private String address;
 
+    public Student() {
+    }
 }
